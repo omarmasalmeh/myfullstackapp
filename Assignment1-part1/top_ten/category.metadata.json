@@ -1,0 +1,18 @@
+{
+    "indexes": [
+        {
+            "v": {
+                "$numberInt": "2"
+            },
+            "key": {
+                "_id": {
+                    "$numberInt": "1"
+                }
+            },
+            "name": "_id_"
+        }
+    ],
+    "uuid": "77a5f63db3244d8d9208963fbbbef9b7",
+    "collectionName": "category",
+    "type": "collection"
+}

@@ -1,0 +1,262 @@
+[
+    {
+        "_id": "6333b0ba0e416aac81c892ff",
+        "product_name": "incididunt mollit magna ut do",
+        "price": "$326.43",
+        "units_in_stock": 436,
+        "quantity_per_unit": 29,
+        "supplierID": "6333c367ab96d597234ad9c5",
+        "categoryID": "6333ba1d6f9d605612329400",
+        "rating": {
+            "rank": 1,
+            "score": 5
+        }
+    },
+    {
+        "_id": "6333b7581dae8174e49feeef",
+        "product_name": "nulla commodo enim dolore sit",
+        "price": "$216.63",
+        "units_in_stock": 837,
+        "quantity_per_unit": 16,
+        "supplierID": "6333c367ab96d597234ad9c5",
+        "categoryID": "6333ba1d6f9d605612329400",
+        "rating": {
+            "rank": 2,
+            "score": 4.9
+        }
+    },
+    {
+        "_id": "6333b7581590f7c795e3b0d0",
+        "product_name": "consectetur elit aliqua do commodo",
+        "price": "$339.91",
+        "units_in_stock": 713,
+        "quantity_per_unit": 28,
+        "supplierID": "6333c367ab96d597234ad9c5",
+        "categoryID": "6333ba1d6f9d605612329400",
+        "rating": {
+            "rank": 3,
+            "score": 4.8
+        }
+    },
+    {
+        "_id": "6333b758b3703404ccaacab7",
+        "product_name": "fugiat dolore anim mollit cillum",
+        "price": "$358.54",
+        "units_in_stock": 630,
+        "quantity_per_unit": 10,
+        "supplierID": "6333c367ab96d597234ad9c5",
+        "categoryID": "6333ba1d6f9d605612329400",
+        "rating": {
+            "rank": 4,
+            "score": 4.7
+        }
+    },
+    {
+        "_id": "6333b7588e34a44a7800dd8a",
+        "product_name": "eu aute ea ipsum veniam",
+        "price": "$147.67",
+        "units_in_stock": 872,
+        "quantity_per_unit": 15,
+        "supplierID": "6333c367ab96d597234ad9c5",
+        "categoryID": "6333ba1d6f9d605612329400",
+        "rating": {
+            "rank": 5,
+            "score": 4.6
+        }
+    },
+    {
+        "_id": "6333b758a6b80a48b6dec7a6",
+        "product_name": "quis aute ad ex veniam",
+        "price": "$188.93",
+        "units_in_stock": 515,
+        "quantity_per_unit": 27,
+        "supplierID": "6333c367ab96d597234ad9c5",
+        "categoryID": "6333ba1d6f9d605612329400",
+        "rating": {
+            "rank": 6,
+            "score": 4.5
+        }
+    },
+    {
+        "_id": "6333b75807af22f01d081cd5",
+        "product_name": "pariatur ad duis nulla aliquip",
+        "price": "$233.01",
+        "units_in_stock": 741,
+        "quantity_per_unit": 2,
+        "supplierID": "6333c367ab96d597234ad9c5",
+        "categoryID": "6333ba1d6f9d605612329400",
+        "rating": {
+            "rank": 7,
+            "score": 4.4
+        }
+    },
+    {
+        "_id": "6333b7581762f29d2147fda2",
+        "product_name": "dolor reprehenderit adipisicing sit veniam",
+        "price": "$210.03",
+        "units_in_stock": 831,
+        "quantity_per_unit": 6,
+        "supplierID": "6333c367ab96d597234ad9c5",
+        "categoryID": "6333ba1d6f9d605612329400",
+        "rating": {
+            "rank": 8,
+            "score": 4.3
+        }
+    },
+    {
+        "_id": "6333b7588736992dbe4b4522",
+        "product_name": "consectetur mollit amet exercitation elit",
+        "price": "$250.30",
+        "units_in_stock": 162,
+        "quantity_per_unit": 24,
+        "supplierID": "6333c367ab96d597234ad9c5",
+        "categoryID": "6333ba1d6f9d605612329400",
+        "rating": {
+            "rank": 9,
+            "score": 4.2
+        }
+    },
+    {
+        "_id": "6333b758a3997f209f188a26",
+        "product_name": "qui laborum nulla pariatur ullamco",
+        "price": "$226.60",
+        "units_in_stock": 223,
+        "quantity_per_unit": 17,
+        "supplierID": "6333c367ab96d597234ad9c5",
+        "categoryID": "6333ba1d6f9d605612329400",
+        "rating": {
+            "rank": 10,
+            "score": 4.1
+        }
+    },
+    {
+        "_id": "6333b7580bd9ea6f4d47c4ec",
+        "product_name": "ipsum tempor ut nulla labore",
+        "price": "$373.73",
+        "units_in_stock": 28,
+        "quantity_per_unit": 24,
+        "supplierID": "6333c367ab96d597234ad9c5",
+        "categoryID": "6333ba1d6f9d605612329400",
+        "rating": {
+            "rank": 11,
+            "score": 4.0
+        }
+    },
+    {
+        "_id": "6333b7586670427d68896bea",
+        "product_name": "irure irure adipisicing labore aliqua",
+        "price": "$205.00",
+        "units_in_stock": 549,
+        "quantity_per_unit": 25,
+        "supplierID": "6333c367ab96d597234ad9c5",
+        "categoryID": "6333ba1d6f9d605612329400",
+        "rating": {
+            "rank": 12,
+            "score": 3.9
+        }
+    },
+    {
+        "_id": "6333b758e4baad267297b66a",
+        "product_name": "Lorem do officia esse non",
+        "price": "$273.36",
+        "units_in_stock": 993,
+        "quantity_per_unit": 4,
+        "supplierID": "6333c367ab96d597234ad9c5",
+        "categoryID": "6333ba1d6f9d605612329400",
+        "rating": {
+            "rank": 13,
+            "score": 3.8
+        }
+    },
+    {
+        "_id": "6333b7585b18106c0971af3f",
+        "product_name": "incididunt tempor aliquip enim irure",
+        "price": "$166.39",
+        "units_in_stock": 916,
+        "quantity_per_unit": 6,
+        "supplierID": "6333c367ab96d597234ad9c5",
+        "categoryID": "6333ba1d6f9d605612329400",
+        "rating": {
+            "rank": 14,
+            "score": 3.8
+        }
+    },
+    {
+        "_id": "6333b758ac4a1583bd80f0c4",
+        "product_name": "irure nostrud ipsum dolor cupidatat",
+        "price": "$207.25",
+        "units_in_stock": 912,
+        "quantity_per_unit": 13,
+        "supplierID": "6333c367ab96d597234ad9c5",
+        "categoryID": "6333ba1d6f9d605612329400",
+        "rating": {
+            "rank": 15,
+            "score": 3.8
+        }
+    },
+    {
+        "_id": "6333b758e622bad813d1b06a",
+        "product_name": "quis ullamco culpa officia enim",
+        "price": "$338.74",
+        "units_in_stock": 403,
+        "quantity_per_unit": 10,
+        "supplierID": "6333c367ab96d597234ad9c5",
+        "categoryID": "6333ba1d6f9d605612329400",
+        "rating": {
+            "rank": 16,
+            "score": 3.8
+        }
+    },
+    {
+        "_id": "6333b7584a0074de370d8812",
+        "product_name": "consequat esse incididunt velit est",
+        "price": "$288.70",
+        "units_in_stock": 37,
+        "quantity_per_unit": 5,
+        "supplierID": "6333c367ab96d597234ad9c5",
+        "categoryID": "6333ba1d6f9d605612329400",
+        "rating": {
+            "rank": 17,
+            "score": 3.7
+        }
+    },
+    {
+        "_id": "6333b758283f0bdb5db52ae3",
+        "product_name": "occaecat ea consectetur magna Lorem",
+        "price": "$392.89",
+        "units_in_stock": 311,
+        "quantity_per_unit": 6,
+        "supplierID": "6333c367ab96d597234ad9c5",
+        "categoryID": "6333ba1d6f9d605612329400",
+        "rating": {
+            "rank": 18,
+            "score": 3.7
+        }
+    },
+    {
+        "_id": "6333b75854ae09b022320848",
+        "product_name": "consequat est nulla fugiat magna",
+        "price": "$206.00",
+        "units_in_stock": 252,
+        "quantity_per_unit": 24,
+        "supplierID": "6333c367ab96d597234ad9c5",
+        "categoryID": "6333ba1d6f9d605612329400",
+        "rating": {
+            "rank": 19,
+            "score": 3.7
+        }
+    },
+    {
+        "_id": "6333b7582bb69a74537be25f",
+        "product_name": "consequat tempor dolore ea laborum",
+        "price": "$131.42",
+        "units_in_stock": 943,
+        "quantity_per_unit": 25,
+        "supplierID": "6333c367ab96d597234ad9c5",
+        "categoryID": "6333ba1d6f9d605612329400",
+        "rating": {
+            "rank": 20,
+            "score": 3.7
+        }
+    }
+]
