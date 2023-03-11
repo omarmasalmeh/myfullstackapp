@@ -21,8 +21,9 @@ This is a FullStack application created using the MERN Stack. The application fe
 To install and run the application locally:
 
 1. Clone this repository
-2. Install dependencies with `npm install`
-3. Start the server with `npm start`
+2. Install BackEnd dependencies with `npm install`
+3. Install FrontEnd dependencies with `cd client` then `npm install`
+3. Start the server with `npm run dev`
 
 ## Usage
 
